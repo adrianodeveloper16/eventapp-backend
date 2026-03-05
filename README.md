@@ -1,6 +1,6 @@
 # 📅 EventApp — Back-end Spring Boot
 
-API REST desenvolvida como Atividade Final da disciplina de Desenvolvimento Web.
+API REST desenvolvida como Atividade Final da disciplina de FullStack.
 
 ---
 
